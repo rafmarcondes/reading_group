@@ -7,19 +7,21 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**28 April 2015** - Expressed sequences for population genomics (Melissa)
-
-> - De Wit P et al. 2015. SNP genotyping and population genomics from expressed sequences - current advances and future possibilities. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/deWitetal2015.pdf)
+ **1 September 2015** - Punctuated equilibrium (Rafa)
 
 
 Future
 -------
 
-**5 May 2015** - 
+**8 September 2015** - Determinants of Species Richness
 
 
 Past
 -------
+
+**28 April 2015** - Expressed sequences for population genomics (Melissa)
+
+> - De Wit P et al. 2015. SNP genotyping and population genomics from expressed sequences - current advances and future possibilities. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/deWitetal2015.pdf)
 
 **21 April 2015** - *Early bursts of trait evolution* (Ryan T.) 
 
