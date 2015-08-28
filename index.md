@@ -8,6 +8,8 @@ This Week
 -------
 
  **1 September 2015** - Punctuated equilibrium (Rafa)
+ 
+ > - Pennell et al 2014. Is there room for punctuated equilibrium in macroevolution?
 
 
 Future
