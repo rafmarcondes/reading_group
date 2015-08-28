@@ -11,9 +11,9 @@ This Week
  
  > - Pennell et al 2014. Is there room for punctuated equilibrium in macroevolution?
  
- > - Lieberman and Eldredge's reply:  What is punctuated equilibrium? What is macroevolution? A response to Pennell et al.
+ > - Lieberman and Eldredge's reply:  What is punctuated equilibrium? What is macroevolution? A response to Pennell et al
  
- > -Pennell et al.'s reply to the reply (?): Speciation is unlikely to drive divergence rates
+ > - Pennell et al.'s reply to the reply (?): Speciation is unlikely to drive divergence rates
 
 Future
 -------
