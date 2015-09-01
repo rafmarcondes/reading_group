@@ -1,7 +1,7 @@
 LSU Evolution Discussion Group
 =======
 
-A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info. To download pdfs, click on the "(pdf)" link and then on "View Raw".
+A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info. 
 
 
 This Week 
