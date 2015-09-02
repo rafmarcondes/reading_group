@@ -7,6 +7,21 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
+**8 September 2015** - The Debate on Determinants of Species Richness (Mark)
+
+[Trevor Price's introduction to the debate.](https://www.dropbox.com/s/oewrtle187fqhob/Price%202015%20The%20Debate%20on%20Determinants%20of%20Species%20Richness.pdf?dl=0)
+
+Rabosky and Hurlbert: [Species richness at continental scales is dominated by ecological limits.](https://www.dropbox.com/s/lvg12qn6mnmwhly/Rabosky%20%26%20Hurlbert%202015%20species%20richness.pdf?dl=0)
+
+Harmon and Harrison: [Species diversity is dynamic and unbounded at local and continental scales.](https://www.dropbox.com/s/2tkfey957n7lhld/Harmon%20%26%20Harrison%202015%20species%20diversity.pdf?dl=0)
+
+Future
+-------
+
+
+Past
+-------
+
  **1 September 2015** - Punctuated equilibrium (Rafa)
  
  > - Pennell et al 2014. [Is there room for punctuated equilibrium in macroevolution?](https://www.dropbox.com/s/nvtevajowjpn53l/pennell%20et%20al%202014%20Is%20there%20room%20for%20punctuated%20equilibrium%20in%20macroevolution.pdf?dl=0)
@@ -15,14 +30,6 @@ This Week
  
  > - Pennell et al.'s reply to the reply (?): [Speciation is unlikely to drive divergence rates](https://www.dropbox.com/s/ugk2rxlucaikzdl/pennell%20et%20al%202014%20Speciation%20is%20unlikely%20to%20drive%20divergence%20rates.pdf?dl=0)
 
-Future
--------
-
-**8 September 2015** - Determinants of Species Richness (Mark)
-
-
-Past
--------
 
 **28 April 2015** - Expressed sequences for population genomics (Melissa)
 
