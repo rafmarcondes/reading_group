@@ -8,9 +8,9 @@ This Week
 -------
 **15 September 2015** - Taxon cycles in ants (Jon)
 
-Economo et al 2015: [Breaking out of biogeographical modules: range expansion and taxon cycles in the hyperdiverse ant genus Pheidole](https://www.dropbox.com/s/hpn40ctvi7osiq8/Economo_et_al-2015-Journal_of_Biogeography.pdf?dl=0). Journal of Biogeography.
+> - Economo et al 2015: [Breaking out of biogeographical modules: range expansion and taxon cycles in the hyperdiverse ant genus Pheidole](https://www.dropbox.com/s/hpn40ctvi7osiq8/Economo_et_al-2015-Journal_of_Biogeography.pdf?dl=0). Journal of Biogeography.
 
-Wilson 1961: [The Nature of the Taxon Cycle in the Melanesian Ant Fauna](https://www.dropbox.com/s/r89obh1ox8x2bsw/EO%20Wilson%201961%20Taxon%20Cycle.pdf?dl=0). Nice historical background, but if you're pressed for time, read only the other paper. The idea is to focus the discussion on it.
+> -Wilson 1961: [The Nature of the Taxon Cycle in the Melanesian Ant Fauna](https://www.dropbox.com/s/r89obh1ox8x2bsw/EO%20Wilson%201961%20Taxon%20Cycle.pdf?dl=0). Nice historical background, but if you're pressed for time, read only the other paper. The idea is to focus the discussion on it.
 
 
 
@@ -22,11 +22,11 @@ Past
 -------
 **8 September 2015** - The Debate on Determinants of Species Richness (Mark)
 
-[Trevor Price's introduction to the debate.](https://www.dropbox.com/s/oewrtle187fqhob/Price%202015%20The%20Debate%20on%20Determinants%20of%20Species%20Richness.pdf?dl=0)
+> - [Trevor Price's introduction to the debate.](https://www.dropbox.com/s/oewrtle187fqhob/Price%202015%20The%20Debate%20on%20Determinants%20of%20Species%20Richness.pdf?dl=0)
 
-Rabosky and Hurlbert: [Species richness at continental scales is dominated by ecological limits.](https://www.dropbox.com/s/lvg12qn6mnmwhly/Rabosky%20%26%20Hurlbert%202015%20species%20richness.pdf?dl=0)
+> - Rabosky and Hurlbert: [Species richness at continental scales is dominated by ecological limits.](https://www.dropbox.com/s/lvg12qn6mnmwhly/Rabosky%20%26%20Hurlbert%202015%20species%20richness.pdf?dl=0)
 
-Harmon and Harrison: [Species diversity is dynamic and unbounded at local and continental scales.](https://www.dropbox.com/s/2tkfey957n7lhld/Harmon%20%26%20Harrison%202015%20species%20diversity.pdf?dl=0)
+> - Harmon and Harrison: [Species diversity is dynamic and unbounded at local and continental scales.](https://www.dropbox.com/s/2tkfey957n7lhld/Harmon%20%26%20Harrison%202015%20species%20diversity.pdf?dl=0)
 
 
  **1 September 2015** - Punctuated equilibrium (Rafa)
