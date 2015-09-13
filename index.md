@@ -8,7 +8,7 @@ This Week
 -------
 **15 September 2015** - Taxon cycles in ants (Jon)
 
-Economo et al 2015: [Breaking out of biogeographical modules: range expansion and taxon cycles in the hyperdiverse ant genus Pheidole](https://www.dropbox.com/s/hpn40ctvi7osiq8/Economo_et_al-2015-Journal_of_Biogeography.pdf?dl=0)
+Economo et al 2015: [Breaking out of biogeographical modules: range expansion and taxon cycles in the hyperdiverse ant genus Pheidole](https://www.dropbox.com/s/hpn40ctvi7osiq8/Economo_et_al-2015-Journal_of_Biogeography.pdf?dl=0). Journal of Biogeography.
 
 Wilson 1961: [The Nature of the Taxon Cycle in the Melanesian Ant Fauna](https://www.dropbox.com/s/r89obh1ox8x2bsw/EO%20Wilson%201961%20Taxon%20Cycle.pdf?dl=0). Nice historical background, but if you're pressed for time, read only the other paper. The idea is to focus the discussion on it.
 
