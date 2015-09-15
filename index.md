@@ -6,7 +6,7 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 
 This Week 
 -------
-**15 September 2015** - The taxon cycle hypothesis (Jon)
+**22 September 2015** - The taxon cycle hypothesis (Jon)
 
 > - Economo et al 2015: [Breaking out of biogeographical modules: range expansion and taxon cycles in the hyperdiverse ant genus Pheidole](https://www.dropbox.com/s/hpn40ctvi7osiq8/Economo_et_al-2015-Journal_of_Biogeography.pdf?dl=0). Journal of Biogeography.
 
@@ -20,6 +20,8 @@ Future
 
 Past
 -------
+**15 September 2015** - CANCELLED
+
 **8 September 2015** - The Debate on Determinants of Species Richness (Mark)
 
 > - [Trevor Price's introduction to the debate.](https://www.dropbox.com/s/oewrtle187fqhob/Price%202015%20The%20Debate%20on%20Determinants%20of%20Species%20Richness.pdf?dl=0)
