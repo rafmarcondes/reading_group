@@ -6,11 +6,10 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 
 This Week 
 -------
-**22 September 2015** - The taxon cycle hypothesis (Jon)
+**1 October 2015** - Sympatric speciation (Subir)
 
-> - Economo et al 2015: [Breaking out of biogeographical modules: range expansion and taxon cycles in the hyperdiverse ant genus Pheidole](https://www.dropbox.com/s/hpn40ctvi7osiq8/Economo_et_al-2015-Journal_of_Biogeography.pdf?dl=0). Journal of Biogeography.
+> - Li et al 2015: [Sympatric speciation revealed by genome-wide divergence in the blind mole rat Spalax](https://www.dropbox.com/s/r8ykvmjnlcyzv5l/li%20et%20al%202015%20Sympatric%20speciation%20revealed%20by%20genome-wide%20divergence%20in%20the%20blind%20mole%20rat%20Spalax..pdf?dl=0). PNAS.
 
-> - Wilson 1961: [The Nature of the Taxon Cycle in the Melanesian Ant Fauna](https://www.dropbox.com/s/r89obh1ox8x2bsw/EO%20Wilson%201961%20Taxon%20Cycle.pdf?dl=0). Nice historical background, but if you're pressed for time, read only the other paper. The idea is to focus the discussion on it.
 
 
 
@@ -20,7 +19,16 @@ Future
 
 Past
 -------
+
+**22 September 2015** - The taxon cycle hypothesis (Jon)
+
+> - Economo et al 2015: [Breaking out of biogeographical modules: range expansion and taxon cycles in the hyperdiverse ant genus Pheidole](https://www.dropbox.com/s/hpn40ctvi7osiq8/Economo_et_al-2015-Journal_of_Biogeography.pdf?dl=0). Journal of Biogeography.
+
+> - Wilson 1961: [The Nature of the Taxon Cycle in the Melanesian Ant Fauna](https://www.dropbox.com/s/r89obh1ox8x2bsw/EO%20Wilson%201961%20Taxon%20Cycle.pdf?dl=0). Nice historical background, but if you're pressed for time, read only the other paper. The idea is to focus the discussion on it.
+
+
 **15 September 2015** - CANCELLED
+
 
 **8 September 2015** - The Debate on Determinants of Species Richness (Mark)
 
