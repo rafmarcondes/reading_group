@@ -6,7 +6,7 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 
 This Week 
 -------
-**1 October 2015** - Sympatric speciation (Subir)
+**29 September 2015** - Sympatric speciation (Subir)
 
 > - Li et al 2015: [Sympatric speciation revealed by genome-wide divergence in the blind mole rat Spalax](https://www.dropbox.com/s/r8ykvmjnlcyzv5l/li%20et%20al%202015%20Sympatric%20speciation%20revealed%20by%20genome-wide%20divergence%20in%20the%20blind%20mole%20rat%20Spalax..pdf?dl=0). PNAS.
 
