@@ -10,7 +10,7 @@ This Week
 
 > - This is the paper we'll discuss about: Medina et al 2006 - [Naked corals: Skeleton loss in Scleractinia](https://www.dropbox.com/s/1hb8wa3uy3ak9h2/PNAS-2006-Medina-9096-100.pdf?dl=0). PNAS.
 
-> - Joanna also suggested this as an additional, optional, cool reading: Fine and Tchernov 207: [Scleractinian Coral Species Survive and Recover from Decalcification](https://www.dropbox.com/s/uk9qn7zy25jzknm/1811.full.pdf?dl=0) Science.
+> - Joanna also suggested this as an additional, optional, cool reading: Fine and Tchernov 207: [Scleractinian Coral Species Survive and Recover from Decalcification.](https://www.dropbox.com/s/uk9qn7zy25jzknm/1811.full.pdf?dl=0) Science.
 
 
 
