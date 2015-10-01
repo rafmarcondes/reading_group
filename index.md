@@ -6,9 +6,11 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 
 This Week 
 -------
-**29 September 2015** - Sympatric speciation (Subir)
+**6 October 2015** - Coral phylogeny (Joanna)
 
-> - Li et al 2015: [Sympatric speciation revealed by genome-wide divergence in the blind mole rat Spalax](https://www.dropbox.com/s/r8ykvmjnlcyzv5l/li%20et%20al%202015%20Sympatric%20speciation%20revealed%20by%20genome-wide%20divergence%20in%20the%20blind%20mole%20rat%20Spalax..pdf?dl=0). PNAS.
+> - This is the paper we'll discuss about: Medina et al 2006 - [Naked corals: Skeleton loss in Scleractinia](https://www.dropbox.com/s/1hb8wa3uy3ak9h2/PNAS-2006-Medina-9096-100.pdf?dl=0). PNAS.
+
+> - Joanna also suggested this as an additional, optional, cool reading: Fine and Tchernov 20077: [Scleractinian Coral Species Survive and Recover from Decalcification](https://www.dropbox.com/s/uk9qn7zy25jzknm/1811.full.pdf?dl=0) Science.
 
 
 
@@ -19,6 +21,11 @@ Future
 
 Past
 -------
+
+**29 September 2015** - Sympatric speciation (Subir)
+
+> - Li et al 2015: [Sympatric speciation revealed by genome-wide divergence in the blind mole rat Spalax](https://www.dropbox.com/s/r8ykvmjnlcyzv5l/li%20et%20al%202015%20Sympatric%20speciation%20revealed%20by%20genome-wide%20divergence%20in%20the%20blind%20mole%20rat%20Spalax..pdf?dl=0). PNAS.
+
 
 **22 September 2015** - The taxon cycle hypothesis (Jon)
 
