@@ -6,21 +6,21 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 
 This Week 
 -------
-**13 October 2015** - Population Genomics of Adaptation (Zach)
-
-> - Laurent et al. 2015 - [The population genomics of rapid adaptation: disentangling signatures of selection and demography in white sands lizards](https://www.dropbox.com/s/y1fwb3gj9qubvu2/laurent%20et%20al%202015%20The%20population%20genomics%20of%20rapid%20adaptation%20disentangling%20signatures%20of%20selection%20and%20demography%20in%20white%20sands%20lizards.pdf?dl=0). Molecular Ecology.
-
-
-Future
--------
 
 **20 October 2015** - Elevational Divergence in Birds (Jon)
 
 > - Freeman 2015 - [Competitive Interactions upon Secondary Contact Drive Elevational Divergence in Tropical Birds](https://www.dropbox.com/s/21f115b6ophhuv2/freeman%202015%20Competitive%20Interactions%20upon%20Secondary%20Contact%20Drive%20Elevational%20Divergence%20in%20Tropical%20Birds.pdf?dl=0).The American Naturalist.
 
+Future
+-------
+
 
 Past
 -------
+
+**13 October 2015** - Population Genomics of Adaptation (Zach)
+
+> - Laurent et al. 2015 - [The population genomics of rapid adaptation: disentangling signatures of selection and demography in white sands lizards](https://www.dropbox.com/s/y1fwb3gj9qubvu2/laurent%20et%20al%202015%20The%20population%20genomics%20of%20rapid%20adaptation%20disentangling%20signatures%20of%20selection%20and%20demography%20in%20white%20sands%20lizards.pdf?dl=0). Molecular Ecology.
 
 **29 September 2015** - Sympatric speciation (Subir)
 
