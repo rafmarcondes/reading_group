@@ -7,20 +7,21 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**20 October 2015** - Elevational Divergence in Birds (Jon)
+**27 October 2015** - Using phylogenies to infer adaptation (Rafa)
 
-> - Freeman 2015 - [Competitive Interactions upon Secondary Contact Drive Elevational Divergence in Tropical Birds](https://www.dropbox.com/s/21f115b6ophhuv2/freeman%202015%20Competitive%20Interactions%20upon%20Secondary%20Contact%20Drive%20Elevational%20Divergence%20in%20Tropical%20Birds.pdf?dl=0).The American Naturalist.
+> - Dumont et al 2015 - [SELECTION FOR MECHANICAL ADVANTAGE UNDERLIES MULTIPLE CRANIAL OPTIMA IN NEW WORLD LEAF-NOSED BATS](https://www.dropbox.com/s/7bs068kmm8rjnzc/dumont%20et%20al%202014%20SELECTION%20FOR%20MECHANICAL%20ADVANTAGE%20UNDERLIES%20MULTIPLE%20CRANIAL%20OPTIMA%20IN%20NEW%20WORLD%20LEAF-NOSED%20BATS.pdf?dl=0).Evolution.
 
 Future
 -------
 
-**27 October 2015** - Adaptive evolution in bat skulls (Rafa)
-
-> - Dumont et al 2015 - [SELECTION FOR MECHANICAL ADVANTAGE UNDERLIES MULTIPLE CRANIAL OPTIMA IN NEW WORLD LEAF-NOSED BATS](https://www.dropbox.com/s/7bs068kmm8rjnzc/dumont%20et%20al%202014%20SELECTION%20FOR%20MECHANICAL%20ADVANTAGE%20UNDERLIES%20MULTIPLE%20CRANIAL%20OPTIMA%20IN%20NEW%20WORLD%20LEAF-NOSED%20BATS.pdf?dl=0).Evolution.
-
 
 Past
 -------
+
+**20 October 2015** - Elevational Divergence in Birds (Jon)
+
+> - Freeman 2015 - [Competitive Interactions upon Secondary Contact Drive Elevational Divergence in Tropical Birds](https://www.dropbox.com/s/21f115b6ophhuv2/freeman%202015%20Competitive%20Interactions%20upon%20Secondary%20Contact%20Drive%20Elevational%20Divergence%20in%20Tropical%20Birds.pdf?dl=0).The American Naturalist.
+
 
 **13 October 2015** - Population Genomics of Adaptation (Zach)
 
