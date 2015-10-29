@@ -7,16 +7,25 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**27 October 2015** - Using phylogenies to infer adaptation (Rafa)
+**3 November 2015 Coevolution between marina algae and bacteria (Alicia)**
 
-> - Dumont et al 2015 - [SELECTION FOR MECHANICAL ADVANTAGE UNDERLIES MULTIPLE CRANIAL OPTIMA IN NEW WORLD LEAF-NOSED BATS](https://www.dropbox.com/s/7bs068kmm8rjnzc/dumont%20et%20al%202014%20SELECTION%20FOR%20MECHANICAL%20ADVANTAGE%20UNDERLIES%20MULTIPLE%20CRANIAL%20OPTIMA%20IN%20NEW%20WORLD%20LEAF-NOSED%20BATS.pdf?dl=0).Evolution.
+> - Ashen and Goff 2000 - [Molecular and Ecological Evidence for Species Specificity and Coevolution in a Group of Marine Algal-Bacterial Symbioses](https://www.dropbox.com/s/94asrh7zcv2toil/Appl.%20Environ.%20Microbiol.-2000-Ashen-3024-30.pdf?dl=0).Appl Environ Microbiol.
 
 Future
 -------
 
+**10 November 2015** - Neanderthal genes in modern humans (Jon)
+
+> - Sankararaman et al 2015 - [The genomic landscape of Neanderthal ancestry in present-day humans](https://www.dropbox.com/s/nbko3he3sw7rq9g/nature12961.pdf?dl=0). Nature.
+
 
 Past
 -------
+
+**27 October 2015** - Using phylogenies to infer adaptation (Rafa)
+
+> - Dumont et al 2015 - [SELECTION FOR MECHANICAL ADVANTAGE UNDERLIES MULTIPLE CRANIAL OPTIMA IN NEW WORLD LEAF-NOSED BATS](https://www.dropbox.com/s/7bs068kmm8rjnzc/dumont%20et%20al%202014%20SELECTION%20FOR%20MECHANICAL%20ADVANTAGE%20UNDERLIES%20MULTIPLE%20CRANIAL%20OPTIMA%20IN%20NEW%20WORLD%20LEAF-NOSED%20BATS.pdf?dl=0).Evolution.
+
 
 **20 October 2015** - Elevational Divergence in Birds (Jon)
 
