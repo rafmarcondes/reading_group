@@ -6,21 +6,23 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 
 This Week 
 -------
+**10 November 2015 Avian Suture Zones in Amazonia (Andre)**
+
+> - Naka et al 2012 - [The role of physical barriers in the location of avian suture zones in the Guiana Shield, northern Amazonia.](https://www.dropbox.com/s/pg15czqedijrpfa/Naka%202012%20Guiana%20Shield%20Suture%20Zones.pdf?dl=0). The American Naturalist
+
+Future
+-------
+
+
+
+Past
+-------
 
 **3 November 2015 Coevolution between marina algae and bacteria (Alicia)**
 
 > - Ashen and Goff 2000 - [Molecular and Ecological Evidence for Species Specificity and Coevolution in a Group of Marine Algal-Bacterial Symbioses](https://www.dropbox.com/s/94asrh7zcv2toil/Appl.%20Environ.%20Microbiol.-2000-Ashen-3024-30.pdf?dl=0).Appl Environ Microbiol.
 
-Future
--------
 
-**10 November 2015** - Neanderthal genes in modern humans (Jon)
-
-> - Sankararaman et al 2015 - [The genomic landscape of Neanderthal ancestry in present-day humans](https://www.dropbox.com/s/nbko3he3sw7rq9g/nature12961.pdf?dl=0). Nature.
-
-
-Past
--------
 
 **27 October 2015** - Using phylogenies to infer adaptation (Rafa)
 
