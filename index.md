@@ -6,9 +6,9 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 
 This Week 
 -------
-**10 November 2015** - Avian Suture Zones in Amazonia (Andre)
+**24 November 2015** - Geographical variation in relation to environment (Jon)
 
-> - Naka et al 2012 - [The role of physical barriers in the location of avian suture zones in the Guiana Shield, northern Amazonia.](https://www.dropbox.com/s/pg15czqedijrpfa/Naka%202012%20Guiana%20Shield%20Suture%20Zones.pdf?dl=0). The American Naturalist
+> - Jaffe et al 2015 - [Geographical variation in morphology and its environmental correlates in a widespread North American lizard, Anolis carolinensis (Squamata: Dactyloidae).](https://www.dropbox.com/s/6m27kf0p106xrbo/Jaffe_et_al-Biological_Journal_of_the_Linnean_Society%20%281%29.pdf?dl=0). Biological Journal of the Linnean Society
 
 Future
 -------
@@ -17,6 +17,11 @@ Future
 
 Past
 -------
+
+**10 November 2015** - Avian Suture Zones in Amazonia (Andre)
+
+> - Naka et al 2012 - [The role of physical barriers in the location of avian suture zones in the Guiana Shield, northern Amazonia.](https://www.dropbox.com/s/pg15czqedijrpfa/Naka%202012%20Guiana%20Shield%20Suture%20Zones.pdf?dl=0). The American Naturalist
+
 
 **3 November 2015** - Coevolution between marina algae and bacteria (Alicia)
 
